@@ -3,7 +3,7 @@
 <h3 align="center">Embedded C Hobbyist</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/111571035/185776368-1962e09c-cf07-423c-bcd2-819eb27f70a7.jpg">
 
-- Here you find my works on Atmeag8 and Atmega32
+- Here you find my works on Atmega8 and Atmega32
 - Works include on ADC, SPI, I2C, UART and IO
 
 <h3 align="left">Connect with me:</h3>
