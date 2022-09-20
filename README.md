@@ -5,6 +5,7 @@
 
 - Here you find my works on Atmega8 and Atmega32
 - Works include on ADC, SPI, I2C, UART and IO
+- I have used Microchip Studio 7.0 IDE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
